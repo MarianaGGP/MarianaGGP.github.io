@@ -1,0 +1,11 @@
+body{
+    background-image: url(PopF.jpg);
+    background-size: 100%;
+}
+
+.font{
+    font-size: 56px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: rgb(255, 255, 255);
+    -webkit-text-stroke: 5px black;
+}

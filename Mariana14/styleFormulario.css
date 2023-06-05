@@ -1,0 +1,14 @@
+body{
+	background-image: url(Fondoformu.jpg);
+	background-size: 100%;
+}
+
+form{
+	color: white;
+}
+
+a{
+	text-decoration: none;
+	background-color: white;
+	color: black;
+}
